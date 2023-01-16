@@ -1,0 +1,224 @@
+Afghanistan|1,480,000,000
+Albania|3,470,000,000
+Algeria|38,320,000,000
+American Samoa|428,000,000
+Andorra|78,710,000
+Angola|21,000,000,000
+Anguilla|7,900,000
+Antigua and Barbuda|1,150,000,000
+Argentina|64,180,000,000
+Armenia|3,820,000,000
+Aruba|1,450,000,000
+Australia|299,040,000,000
+Austria|226,790,000,000
+Azerbaijan|15,210,000,000
+Bahamas, The|1,690,000,000
+Bahrain|30,100,000,000
+Bangladesh|38,780,000,000
+Barbados|485,400,000
+Belarus|37,040,000,000
+Belgium|414,790,000,000
+Belize|710,000,000
+Benin|3,580,000,000
+Bermuda|1,590,000,000
+Bhutan|790,000,000
+Bolivia|7,550,000,000
+Bosnia and Herzegovina|6,810,000,000
+Botswana|6,160,000,000
+Brazil|239,180,000,000
+British Virgin Islands|23,000,000
+Brunei|7,830,000,000
+Bulgaria|39,270,000,000
+Burkina Faso|4,470,000,000
+Burma|17,520,000,000
+Burundi|290,000,000
+Cabo Verde|420,000,000
+Cambodia|19,400,000,000
+Cameroon|7,730,000,000
+Canada|477,310,000,000
+Cayman Islands|4,130,000,000
+Central African Republic|113,700,000
+Chad|2,464,000,000
+Chile|79,800,000,000
+China|2,732,370,000,000
+Colombia|39,140,000,000
+Comoros|140,000,000
+Congo, Democratic Republic of the|13,930,000,000
+Congo, Republic of the|4,193,000,000
+Cook Islands|3,125,000
+Costa Rica|21,200,000,000
+Cote d'Ivoire|13,790,000,000
+Croatia|23,660,000,000
+Cuba|2,630,000,000
+Curacao|1,770,000,000
+Cyprus|16,100,000,000
+Czechia|174,920,000,000
+Denmark|191,530,000,000
+Djibouti|5,150,000,000
+Dominica|160,000,000
+Dominican Republic|14,440,000,000
+Ecuador|22,230,000,000
+Egypt|40,100,000,000
+El Salvador|6,290,000,000
+Equatorial Guinea|8,776,000,000
+Eritrea|624,300,000
+Estonia|21,690,000,000
+Eswatini|1,810,000,000
+Ethiopia|7,620,000,000
+Falkland Islands (Islas Malvinas)|257,300,000
+Faroe Islands|1,184,000,000
+Fiji|1,230,000,000
+Finland|108,220,000,000
+France|746,910,000,000
+French Polynesia|1,245,000,000
+Gabon|10,800,000,000
+Gambia, The|350,000,000
+Gaza Strip|1,955,000,000
+Georgia|5,940,000,000
+Germany|1,671,650,000,000
+Ghana|25,590,000,000
+Gibraltar|202,300,000
+Greece|59,020,000,000
+Greenland|407,100,000
+Grenada|650,000,000
+Guam|1,124,000,000
+Guatemala|13,120,000,000
+Guinea|4,040,000,000
+Guinea-Bissau|290,000,000
+Guyana|1,800,000,000
+Haiti|1,730,000,000
+Honduras|7,160,000,000
+Hong Kong|615,880,000,000
+Hungary|123,830,000,000
+Iceland|7,430,000,000
+India|484,950,000,000
+Indonesia|178,260,000,000
+Iran|101,400,000,000
+Iraq|50,610,000,000
+Ireland|502,310,000,000
+Israel|113,870,000,000
+Italy|558,260,000,000
+Jamaica|5,920,000,000
+Japan|793,320,000,000
+Jordan|16,290,000,000
+Kazakhstan|51,750,000,000
+Kenya|11,490,000,000
+Kiribati|30,000,000
+Korea, North|222,000,000
+Korea, South|606,710,000,000
+Kosovo|1,690,000,000
+Kuwait|72,830,000,000
+Kyrgyzstan|3,110,000,000
+Laos|6,990,000,000
+Latvia|20,230,000,000
+Lebanon|18,170,000,000
+Lesotho|900,000,000
+Liberia|550,000,000
+Libya|29,960,000,000
+Liechtenstein|3,217,000,000
+Lithuania|41,480,000,000
+Luxembourg|137,090,000,000
+Macau|45,350,000,000
+Madagascar|4,090,000,000
+Malawi|1,160,000,000
+Malaysia|207,370,000,000
+Maldives|3,720,000,000
+Mali|4,180,000,000
+Malta|19,040,000,000
+Marshall Islands|130,000,000
+Mauritania|2,520,000,000
+Mauritius|5,170,000,000
+Mexico|434,930,000,000
+Micronesia, Federated States of|88,300,000
+Moldova|3,240,000,000
+Monaco|964,600,000
+Mongolia|7,650,000,000
+Montenegro|1,240,000,000
+Montserrat|4,400,000
+Morocco|37,520,000,000
+Mozambique|4,350,000,000
+Namibia|3,560,000,000
+Nauru|30,000,000
+Nepal|1,790,000,000
+Netherlands|719,780,000,000
+New Caledonia|2,207,000,000
+New Zealand|50,430,000,000
+Nicaragua|5,340,000,000
+Niger|1,390,000,000
+Nigeria|39,940,000,000
+Niue|201,400
+North Macedonia|7,180,000,000
+Northern Mariana Islands|914,000,000
+Norway|117,060,000,000
+Oman|43,690,000,000
+Pakistan|27,300,000,000
+Palau|23,170,000,000
+Panama|20,180,000,000
+Papua New Guinea|10,600,000,000
+Paraguay|11,810,000,000
+Peru|54,880,000,000
+Philippines|78,820,000,000
+Poland|333,540,000,000
+Portugal|85,280,000,000
+Puerto Rico|73,170,000,000
+Qatar|70,930,000,000
+Romania|93,010,000,000
+Russia|379,120,000,000
+Rwanda|2,250,000,000
+Saint Helena, Ascension, and Tristan da Cunha|19,000,000
+Saint Kitts and Nevis|610,000,000
+Saint Lucia|1,220,000,000
+Saint Pierre and Miquelon|6,641,000
+Saint Vincent and the Grenadines|320,000,000
+Samoa|310,000,000
+San Marino|3,827,000,000
+Sao Tome and Principe|50,000,000
+Saudi Arabia|184,110,000,000
+Senegal|5,290,000,000
+Serbia|25,420,000,000
+Seychelles|1,090,000,000
+Sierra Leone|740,000,000
+Singapore|599,200,000,000
+Sint Maarten|1,090,000,000
+Slovakia|89,920,000,000
+Slovenia|41,730,000,000
+Solomon Islands|430,000,000
+Somalia|819,000,000
+South Africa|93,010,000,000
+South Sudan|3,010,000,000
+Spain|392,850,000,000
+Sri Lanka|19,410,000,000
+Sudan|5,110,000,000
+Suriname|2,290,000,000
+Sweden|240,080,000,000
+Switzerland|470,910,000,000
+Syria|1,850,000,000
+Taiwan|388,490,000,000
+Tajikistan|1,410,000,000
+Tanzania|9,660,000,000
+Thailand|258,420,000,000
+Timor-Leste|60,000,000
+Togo|1,670,000,000
+Tokelau|103,000
+Tonga|90,000,000
+Trinidad and Tobago|9,570,000,000
+Tunisia|19,170,000,000
+Turkmenistan|7,458,000,000
+Turks and Caicos Islands|830,000,000
+Tuvalu|10,000,000
+Uganda|6,120,000,000
+Ukraine|60,670,000,000
+United Arab Emirates|308,500,000,000
+United Kingdom|741,950,000,000
+United States|2,127,250,000,000
+Uruguay|13,550,000,000
+Uzbekistan|14,520,000,000
+Vanuatu|380,000,000
+Venezuela|83,401,000,000
+Vietnam|280,830,000,000
+Virgin Islands|1,810,000,000
+Wallis and Futuna|47,450
+West Bank|2,650,000,000
+Yemen|384,500,000
+Zambia|8,550,000,000
+Zimbabwe|4,422,000,000
