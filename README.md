@@ -21,9 +21,11 @@ This is one of my homework projects I completed in my business programming class
   
   <img width="431" alt="Querrying Error" src="https://user-images.githubusercontent.com/122833762/212785867-5bcfee32-dab5-4f4e-8706-b740f7ffe348.png">
 
-* 
+* When the user has indicated they've finished using the program, the user will be prompted to determine whether they would liek to have a formatted file of all the countries they've queried. If the user doesn't provide an adequate answer to the question, they will be re-prompted until they provide an adequate answer.
 
   <img width="574" alt="Final" src="https://user-images.githubusercontent.com/122833762/212785886-8d016aa4-163f-4411-9d55-9de95a18e4bf.png">
 
-<img width="297" alt="Report" src="https://user-images.githubusercontent.com/122833762/212785895-678a7583-0b44-4a3b-8af0-cf182fdcc28b.png">
+* Once the user properly indicates they want the formatted file, the program will generate a text file containing each country name and export amount in billions.
+
+  <img width="297" alt="Report" src="https://user-images.githubusercontent.com/122833762/212785895-678a7583-0b44-4a3b-8af0-cf182fdcc28b.png">
 
