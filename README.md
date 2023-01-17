@@ -25,7 +25,7 @@ This is one of my homework projects I completed in my business programming class
 
   <img width="574" alt="Final" src="https://user-images.githubusercontent.com/122833762/212785886-8d016aa4-163f-4411-9d55-9de95a18e4bf.png">
 
-* Once the user properly indicates they want the formatted file, the program will generate a text file containing each country name and export amount in billions.
+* Once the user properly indicates they want the formatted file, the program will generate a text file containing each country name and export amount in billions. The text file below would include the countries queried in this example (United Kingdom, Zambia, and Zimbabwe).
 
   <img width="297" alt="Report" src="https://user-images.githubusercontent.com/122833762/212785895-678a7583-0b44-4a3b-8af0-cf182fdcc28b.png">
 
