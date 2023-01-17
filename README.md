@@ -9,9 +9,15 @@ This is one of my homework projects I completed in my business programming class
 
 <br>
 
-2. Then I wrote code that woudl display a message to the user to inform them that the data has been loaded and is ready for querying. It would also 
-include the number of countries available to query.
+2. Then I wrote code that woudl display a message to the user to inform them that the data has been loaded and is ready for querying. 
+It would also include the number of countries available to query.
 
 <br>
 
 3.
+
+<br>
+
+4.
+
+<br>
