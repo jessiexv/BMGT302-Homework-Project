@@ -21,10 +21,9 @@ This is one of my homework projects I completed in my business programming class
   
   <img width="431" alt="Querrying Error" src="https://user-images.githubusercontent.com/122833762/212785867-5bcfee32-dab5-4f4e-8706-b740f7ffe348.png">
 
+* 
 
+  <img width="574" alt="Final" src="https://user-images.githubusercontent.com/122833762/212785886-8d016aa4-163f-4411-9d55-9de95a18e4bf.png">
 
-
-<br> &emsp; <img width="574" alt="Final" src="https://user-images.githubusercontent.com/122833762/212785886-8d016aa4-163f-4411-9d55-9de95a18e4bf.png">
-
-<br> &emsp; <img width="297" alt="Report" src="https://user-images.githubusercontent.com/122833762/212785895-678a7583-0b44-4a3b-8af0-cf182fdcc28b.png">
+<img width="297" alt="Report" src="https://user-images.githubusercontent.com/122833762/212785895-678a7583-0b44-4a3b-8af0-cf182fdcc28b.png">
 
