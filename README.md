@@ -17,8 +17,8 @@ This is one of my homework projects I completed in my business programming class
 
 <br>
 
-     * When the user enters an invalid country name or a single letter that does not match any country names, the user will be informed that there are
-       no matches.
+* When the user enters an invalid country name or a single letter that does not match any country names, the user will be informed that there are
+no matches.
 
 <br>
 
