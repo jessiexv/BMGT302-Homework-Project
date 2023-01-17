@@ -9,15 +9,15 @@ This is one of my homework projects I completed in my business programming class
 
 <br>
 
-2. Then I wrote code that would display a message to the user to inform them that the data has been loaded and is ready for querying. 
-It would also include the number of countries available to query.
+2. Then I wrote code that would display a message to the user to inform them that the data has been loaded and is ready for querying. It would also include the number of countries available to query.
 
 <br>
 
-3.
+3. Then, when a user enters a country name, such as "United Kingdom," the program will provide the export amount in billions. If a user only enters a single letter for the country name, such as "Z," the program will provide an export amount, in billions, as part of an output for all countries starting with that letter (i.e., "Zambia" and "Zimbabwe").
 
 <br>
 
-4.
+3A. When the user enters an invalid country name or a single letter that does not match any country names, the user will be informed that there are
+no matches.
 
 <br>
