@@ -28,7 +28,7 @@ This is one of my homework projects I completed in my business programming class
 
 
 
-&emsp; <img width="574" alt="Final" src="https://user-images.githubusercontent.com/122833762/212785886-8d016aa4-163f-4411-9d55-9de95a18e4bf.png">
+<br> &emsp; <img width="574" alt="Final" src="https://user-images.githubusercontent.com/122833762/212785886-8d016aa4-163f-4411-9d55-9de95a18e4bf.png">
 
-&emsp; <img width="297" alt="Report" src="https://user-images.githubusercontent.com/122833762/212785895-678a7583-0b44-4a3b-8af0-cf182fdcc28b.png">
+<br> &emsp; <img width="297" alt="Report" src="https://user-images.githubusercontent.com/122833762/212785895-678a7583-0b44-4a3b-8af0-cf182fdcc28b.png">
 
