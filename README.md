@@ -6,12 +6,14 @@ This is one of my homework projects I completed in my business programming class
 
 ## How It Works
 * First, we needed to create a Python script that will read all data from the file and store it in memory.
-&emsp; <img width="300" alt="Data" src="https://user-images.githubusercontent.com/122833762/212775262-2ce3cc9f-8bc0-44b9-a8f7-68ab87ab078c.png">
+
+  <img width="300" alt="Data" src="https://user-images.githubusercontent.com/122833762/212775262-2ce3cc9f-8bc0-44b9-a8f7-68ab87ab078c.png">
 
 <br>
 
-* A message to the user would appear to inform them that the data has been loaded and is ready for querying. It would also include the number of countries available to query. <br> 
-&emsp; <img width="458" alt="Initializing" src="https://user-images.githubusercontent.com/122833762/212785830-ba89e871-6f4d-4529-9d3c-443cb3889c10.png">
+* A message to the user would appear to inform them that the data has been loaded and is ready for querying. It would also include the number of countries available to query.
+
+  <img width="458" alt="Initializing" src="https://user-images.githubusercontent.com/122833762/212785830-ba89e871-6f4d-4529-9d3c-443cb3889c10.png">
 
 
 <br>
