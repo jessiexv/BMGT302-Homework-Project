@@ -9,7 +9,7 @@ This is one of my homework projects I completed in my business programming class
 
 <br>
 
-* A meessage to the user would appear to inform them that the data has been loaded and is ready for querying. It would also include the number of countries available to query.
+* A message to the user would appear to inform them that the data has been loaded and is ready for querying. It would also include the number of countries available to query.
 
 <br>
 
